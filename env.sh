@@ -1,0 +1,3 @@
+export VIRL_HOST=10.71.158.154
+export VIRL_USERNAME=admin
+export VIRL_PASSWORD=C!sco123
